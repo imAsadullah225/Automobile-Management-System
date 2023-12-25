@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             125
+Mileage:              65465
+Year:                 2011
+Color:                Black
+Vendor:               Lambo
+Model:                lbnkj
+Fuel Type:            CNG
+Body Type:            4x4 or 4WD
+Transmission:         Automatic
+Cylinders:            1
+Engine No:            asghdui
+Chasis No:            ghihasd
+-----------------------------------------
+

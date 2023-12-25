@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             34223
+Mileage:              23423
+Year:                 2010
+Color:                Black
+Vendor:               Honda
+Model:                ewrefs
+Fuel Type:            Diesel
+Body Type:            Crossover
+Transmission:         DSG
+Cylinders:            2
+Engine No:            23ref
+Chasis No:            324235
+-----------------------------------------
+

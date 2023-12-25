@@ -1,0 +1,6 @@
+ Customer ID | Date | CNIC | Customer Name | Contact No | Address | Car Vendor | Car Model | Car Taxes | Car Total Price 
+CTM-394-2758 | Tuesday, July 18, 2017 | 65465-4656546-5 | Asad | 624954989964 | shershah | Honda | R7 360 | 50000 | 3520050000
+CTM-512-3584 | Tuesday, July 18, 2017 | 54465-4654654-6 | Aria | 262565565 | shershah | Honda | R7 360 | 3456345 | 3523456345
+CTM-563-3941 | Tuesday, July 18, 2017 | 56565-6565665-4 | sdasf | 546546546 | 1sadas | Honda | R7 360 | 146 | 3520000146
+CTM-607-4249 | Tuesday, July 18, 2017 |  5496-4987987-9 | asdsaf | 6546544 | dasfasf | Honda | R7 360 | 1321436 | 3521321436
+CTM-334-2338 | Tuesday, July 18, 2017 | 54651-4654654-6 | 654654654654 | 654654654654 | 654646 | Lambo | lbnkj | 32164 | Invalid Car Details

@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             21312
+Mileage:              234321
+Year:                 2008
+Color:                Black
+Vendor:               Suzuki
+Model:                21312
+Fuel Type:            Diesel
+Body Type:            Coupe
+Transmission:         DSG
+Cylinders:            3
+Engine No:            sda23
+Chasis No:            234
+-----------------------------------------
+

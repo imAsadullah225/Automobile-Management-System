@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             213214
+Mileage:              12312
+Year:                 2009
+Color:                Beige
+Vendor:               Suzuki
+Model:                21321
+Fuel Type:            Diesel
+Body Type:            Convertible
+Transmission:         DSG
+Cylinders:            3
+Engine No:            21321
+Chasis No:            dfssd
+-----------------------------------------
+

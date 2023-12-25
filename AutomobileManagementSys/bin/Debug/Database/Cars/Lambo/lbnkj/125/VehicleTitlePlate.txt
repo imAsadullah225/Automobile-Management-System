@@ -1,0 +1,9 @@
+------ Vehicle Title Plate Details ------
+
+Plate No:             asdasd
+Plate City:           asdasdf
+Plate State:          asdasfd
+Plate Title Holder:   asdaf
+Holder Contact No:    654485
+-----------------------------------------
+

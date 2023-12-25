@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             2131234
+Mileage:              12334213
+Year:                 2009
+Color:                Beige
+Vendor:               Suzuki
+Model:                asd2133
+Fuel Type:            LPG
+Body Type:            Convertible
+Transmission:         DSG
+Cylinders:            3
+Engine No:            wqe21
+Chasis No:            sdf23
+-----------------------------------------
+

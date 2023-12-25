@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             213145
+Mileage:              2143
+Year:                 2010
+Color:                Blue
+Vendor:               Suzuki
+Model:                21321
+Fuel Type:            LPG
+Body Type:            Convertible
+Transmission:         CVT
+Cylinders:            3
+Engine No:            sadc23
+Chasis No:            sadf43
+-----------------------------------------
+

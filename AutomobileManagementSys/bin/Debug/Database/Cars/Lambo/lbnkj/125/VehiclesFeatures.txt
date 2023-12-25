@@ -1,0 +1,10 @@
+---------- Vehicle Features ----------
+
+Overhead Console
+Luggage Rack
+LED Tail Light
+Front Brakes
+Four Wheel Drive
+Fog Light
+-----------------------------------------
+

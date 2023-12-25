@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             12345
+Mileage:              65465
+Year:                 2010
+Color:                Beige
+Vendor:               Honda
+Model:                R7 360
+Fuel Type:            Petrol
+Body Type:            Coupe
+Transmission:         Semi automatic
+Cylinders:            9
+Engine No:            ENG-2164
+Chasis No:            CHS-54564
+-----------------------------------------
+

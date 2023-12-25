@@ -1,0 +1,14 @@
+---------- Customer Information ----------
+
+Customer ID:               CTM-512-3584
+Registration Date:         Tuesday, July 18, 2017
+Customer CNIC:             54465-4654654-6
+Customer Name:             Aria
+Contact No:                262565565
+Address:                   shershah
+Car Vendor:                Honda
+Car Model:                 R7 360
+Car Taxes:                 3456345
+Car Total Price:           3523456345
+-----------------------------------------
+

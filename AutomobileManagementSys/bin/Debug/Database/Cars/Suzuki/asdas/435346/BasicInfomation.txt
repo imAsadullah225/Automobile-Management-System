@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             435346
+Mileage:              23423
+Year:                 2010
+Color:                Beige
+Vendor:               Suzuki
+Model:                asdas
+Fuel Type:            Diesel
+Body Type:            Coupe
+Transmission:         CVT
+Cylinders:            3
+Engine No:            asd23
+Chasis No:            sda23
+-----------------------------------------
+

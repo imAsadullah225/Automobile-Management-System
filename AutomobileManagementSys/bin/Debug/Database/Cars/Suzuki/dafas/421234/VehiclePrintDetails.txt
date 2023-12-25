@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             421234
+Mileage:              213314
+Year:                 2009
+Color:                Beige
+Vendor:               Suzuki
+Model:                dafas
+Fuel Type:            Diesel
+Body Type:            Crossover
+Transmission:         CVT
+Cylinders:            3
+Engine No:            21335r
+Chasis No:            21341234
+-----------------------------------------
+

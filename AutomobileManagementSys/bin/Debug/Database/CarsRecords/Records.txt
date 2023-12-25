@@ -1,0 +1,13 @@
+ Stock No | Mileage | Year | Color | Vendor | Model | Fuel Type | Body Type | Transmission | Cylinders | Engine No | Chasis No
+213145 | 2143 | 2010 | Blue | Suzuki | 21321 | LPG | Convertible | CVT | 3 | sadc23 | sadf43
+435346 | 23423 | 2010 | Beige | Suzuki | asdas | Diesel | Coupe | CVT | 3 | asd23 | sda23
+2131234 | 12334213 | 2009 | Beige | Suzuki | asd2133 | LPG | Convertible | DSG | 3 | wqe21 | sdf23
+21314 | 423423 | 2009 | Black | Suzuki | sa23112 | Diesel | Convertible | DSG | 3 | 231423sdf | asd2134
+21312 | 234321 | 2008 | Black | Suzuki | 21312 | Diesel | Coupe | DSG | 3 | sda23 | 234
+324235 | 32423 | 2010 | Blue | Suzuki | 23121 | LPG | Crossover | DSG | 3 | 1231245 | 21432
+421234 | 213314 | 2009 | Beige | Suzuki | dafas | Diesel | Crossover | CVT | 3 | 21335r | 21341234
+34223 | 23423 | 2010 | Black | Honda | ewrefs | Diesel | Crossover | DSG | 2 | 23ref | 324235
+213214 | 12312 | 2009 | Beige | Suzuki | 21321 | Diesel | Convertible | DSG | 3 | 21321 | dfssd
+1234 | 3216 | 2009 | Beige | Suzuki | GTX | CNG | Convertible | Semi automatic | 12 | ENG-23y79 | CHS-8y62712y6 
+12345 | 65465 | 2010 | Beige | Honda | R7 360 | Petrol | Coupe | Semi automatic | 9 | ENG-2164 | CHS-54564
+125 | 65465 | 2011 | Black | Lambo | lbnkj | CNG | 4x4 or 4WD | Automatic | 1 | asghdui | ghihasd

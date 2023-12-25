@@ -1,0 +1,8 @@
+-------- Vehicle Purchae Details --------
+
+Purchase Date:             Tuesday, July 18, 2017
+Purchased Amount:          3520000000
+Purchase Country:          Pakistan
+Purchased From:            Honda
+-----------------------------------------
+

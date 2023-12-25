@@ -1,0 +1,32 @@
+---------- Vehicle Information ----------
+
+Stock No:             1234
+Mileage:              3216
+Year:                 2009
+Color:                Beige
+Vendor:               Suzuki
+Model:                GTX
+Fuel Type:            CNG
+Body Type:            Convertible
+Transmission:         Semi automatic
+Cylinders:            12
+Engine No:            ENG-23y79
+Chasis No:            CHS-8y62712y6 
+-----------------------------------------
+
+---------- Vehicle Features ----------
+
+Convertable Top
+Body Graphics
+Anti Skid Control
+Anti Theft System
+-----------------------------------------
+
+-------- Vehicle Purchae Details --------
+
+Purchase Date:             Tuesday, July 18, 2017
+Purchased Amount:          35200000
+Purchase Country:          pakistan
+Purchased From:            Honda
+-----------------------------------------
+

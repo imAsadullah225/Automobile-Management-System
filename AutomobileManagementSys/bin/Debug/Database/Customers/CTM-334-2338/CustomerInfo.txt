@@ -1,0 +1,14 @@
+---------- Customer Information ----------
+
+Customer ID:               CTM-334-2338
+Registration Date:         Tuesday, July 18, 2017
+Customer CNIC:             54651-4654654-6
+Customer Name:             654654654654
+Contact No:                654654654654
+Address:                   654646
+Car Vendor:                Lambo
+Car Model:                 lbnkj
+Car Taxes:                 32164
+Car Total Price:           Invalid Car Details
+-----------------------------------------
+

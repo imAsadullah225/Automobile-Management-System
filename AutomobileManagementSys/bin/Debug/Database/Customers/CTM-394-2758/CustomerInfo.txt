@@ -1,0 +1,14 @@
+---------- Customer Information ----------
+
+Customer ID:               CTM-394-2758
+Registration Date:         Tuesday, July 18, 2017
+Customer CNIC:             65465-4656546-5
+Customer Name:             Asad
+Contact No:                624954989964
+Address:                   shershah
+Car Vendor:                Honda
+Car Model:                 R7 360
+Car Taxes:                 50000
+Car Total Price:           3520050000
+-----------------------------------------
+

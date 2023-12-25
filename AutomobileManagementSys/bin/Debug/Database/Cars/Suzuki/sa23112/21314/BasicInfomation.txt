@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             21314
+Mileage:              423423
+Year:                 2009
+Color:                Black
+Vendor:               Suzuki
+Model:                sa23112
+Fuel Type:            Diesel
+Body Type:            Convertible
+Transmission:         DSG
+Cylinders:            3
+Engine No:            231423sdf
+Chasis No:            asd2134
+-----------------------------------------
+

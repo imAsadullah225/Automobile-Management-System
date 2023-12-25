@@ -1,0 +1,14 @@
+---------- Customer Information ----------
+
+Customer ID:               CTM-563-3941
+Registration Date:         Tuesday, July 18, 2017
+Customer CNIC:             56565-6565665-4
+Customer Name:             sdasf
+Contact No:                546546546
+Address:                   1sadas
+Car Vendor:                Honda
+Car Model:                 R7 360
+Car Taxes:                 146
+Car Total Price:           3520000146
+-----------------------------------------
+

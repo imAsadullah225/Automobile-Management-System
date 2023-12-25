@@ -1,0 +1,16 @@
+---------- Vehicle Information ----------
+
+Stock No:             324235
+Mileage:              32423
+Year:                 2010
+Color:                Blue
+Vendor:               Suzuki
+Model:                23121
+Fuel Type:            LPG
+Body Type:            Crossover
+Transmission:         DSG
+Cylinders:            3
+Engine No:            1231245
+Chasis No:            21432
+-----------------------------------------
+

@@ -1,0 +1,43 @@
+---------- Vehicle Information ----------
+
+Stock No:             125
+Mileage:              65465
+Year:                 2011
+Color:                Black
+Vendor:               Lambo
+Model:                lbnkj
+Fuel Type:            CNG
+Body Type:            4x4 or 4WD
+Transmission:         Automatic
+Cylinders:            1
+Engine No:            asghdui
+Chasis No:            ghihasd
+-----------------------------------------
+
+---------- Vehicle Features ----------
+
+Overhead Console
+Luggage Rack
+LED Tail Light
+Front Brakes
+Four Wheel Drive
+Fog Light
+-----------------------------------------
+
+-------- Vehicle Purchae Details --------
+
+Purchase Date:             Tuesday, July 18, 2017
+Purchased Amount:          32134654654
+Purchase Country:          jksghadi
+Purchased From:            Lambo
+-----------------------------------------
+
+------ Vehicle Title Plate Details ------
+
+Plate No:             asdasd
+Plate City:           asdasdf
+Plate State:          asdasfd
+Plate Title Holder:   asdaf
+Holder Contact No:    654485
+-----------------------------------------
+
